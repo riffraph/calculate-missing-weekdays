@@ -5,9 +5,9 @@ given a list of date intervals, find the missing weekdays for a calendar year
 runtime: Python 3.6
 
 ### how to run
-<i>python3 calculate-missing-periods.py [year] [file]</i>
+<i>app.py <b>[year]</b> <b>[file]</b></i>
 
-<i>e.g. python3 calculate-missing-periods.py 2020 intervals.json</i>
+e.g. <i>app.py 2020 intervals.json</i>
 
 ### Input
 
